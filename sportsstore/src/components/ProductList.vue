@@ -16,7 +16,7 @@
 
 <script>
 
-import { mapState, mapGetters } from 'vuex';
+import { mapGetters } from 'vuex';
 import PageControls from './PageControls';
 
 export default {
